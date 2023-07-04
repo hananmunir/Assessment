@@ -12,8 +12,6 @@ This is a simple Todo application built with React, Express and Vite.
 
 - React
 - Vite
-- HTML
-- CSS
 - Tailwind CSS
 - Node
 - Express
