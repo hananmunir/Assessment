@@ -27,13 +27,13 @@ Make sure you have [Node.js](https://nodejs.org) installed on your local machine
 
 ### Run Project Using
 
-## Frontend
+#### Frontend
 
 1. `npm install` to install all dependencies
 2. `npm run dev` to start the local server
 3. `npm run build` to build the project for production
 
-## Backend
+#### Backend
 
 1. `npm install` to install all dependencies
 2. `npm start` to start the local server
